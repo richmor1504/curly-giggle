@@ -8,5 +8,5 @@ In separate files
 1. wordle program ✅
 2. Falcon dollar budgeter program ✅
 3. roll a die/flip a coin program (Dania)
-4. to-do list program --> txt out/in? (Tyler)
-5. Calculator Program (Tyler)
+4. to-do list program --> txt out/in? ✅
+5. Calculator Program ✅
