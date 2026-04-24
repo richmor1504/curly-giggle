@@ -22,7 +22,7 @@ public class ToDoList {
             System.out.print("Choice: ");
 
             choice = input.nextInt();
-            input.nextLine(); // fixes skipping issue
+            input.nextLine();
 
             if (choice == 1) {
 
