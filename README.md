@@ -10,3 +10,7 @@ In separate files
 3. roll a die/flip a coin program (Dania)
 4. to-do list program --> txt out/in? ✅
 5. Calculator Program ✅
+
+
+
+3-5 Slides and Demo
