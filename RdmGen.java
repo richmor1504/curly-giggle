@@ -23,7 +23,6 @@ public class RdmGen {
             choice = input.nextInt();
 
             if (choice == 1) {
-                // Coin flip (Heads or Tails)
                 String result = (rand.nextInt(2) == 0) ? "Heads" : "Tails";
                 System.out.println("You flipped: " + result);
 
