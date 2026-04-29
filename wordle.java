@@ -104,7 +104,7 @@ public class wordle{
         // 2.
         loadWords();
         word = wordList.get((int)(Math.random()*wordList.size()));
-        System.out.println(word);
+        //System.out.println(word);
 
         System.out.println("Welcome to Word Game!");
         System.out.println("Guess a five-letter word. When a letter of the guess is:");
