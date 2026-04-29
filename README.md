@@ -3,7 +3,7 @@ CIS284 group project suite
 
 curly-giggle goals
 
-a modular 'main' program which allows access to different small programs through imports
+a modular 'main' program which allows access to different small programs through imports ✅
 In separate files
 1. wordle program ✅
 2. Falcon dollar budgeter program ✅
