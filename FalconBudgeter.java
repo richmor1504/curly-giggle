@@ -62,6 +62,5 @@ public class FalconBudgeter {
 
         System.out.printf("\nFinal Semester Balance: $%.2f\n", balance);
         System.out.println("Enjoy your meal!");
-        input.close();
     }
 }
