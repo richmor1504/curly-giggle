@@ -55,7 +55,6 @@ public class ToDoList {
         }
 
         saveFile();
-        input.close();
 
         System.out.println("Done.");
     }
