@@ -1,10 +1,9 @@
 // multitool.java
 
-import java.io.IOException;
 import java.util.*;
 
 public class multitool {
-    public static void main(String[] args) throws IOException{
+    public static void main(String[] args){
        int choice = 0;
         Scanner in = new Scanner(System.in); 
         boolean needChoice = true;
