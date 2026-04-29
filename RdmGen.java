@@ -50,6 +50,5 @@ public class RdmGen {
             }
         }
 
-        input.close();
     }
 }
