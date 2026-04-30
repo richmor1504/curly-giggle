@@ -10,7 +10,7 @@ In separate files ✅
 3. roll a die/flip a coin program ✅
 4. to-do list program --> txt out/in? ✅
 5. Calculator Program ✅
-
+6. rock Paper scissors
 
 
 3-5 Slides and Demo ✅
