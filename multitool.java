@@ -17,7 +17,7 @@ public class multitool {
             // not sure if this is the best way. But it works well enough
             Boolean needChoiceVar = true;
             // for a nested while loop. asks the same question as needChoice.
-            System.out.println("1. Word Game\n2. Falcon Dollar Budgeter\n3. Number Roller\n4. To-Do List\n5. Calculator\n6. Exit");
+            System.out.println("1. Word Game\n2. Falcon Dollar Budgeter\n3. Number Roller\n4. To-Do List\n5. Calculator\n6. Rock Paper Scissors\n7. Exit");
             System.out.println();
             
             while(needChoiceVar){
@@ -26,7 +26,7 @@ public class multitool {
                 try{
                     choice = Integer.parseInt(temp);
                     // attempt to get int value for choice
-                    if((choice < 1)||(choice>6))
+                    if((choice < 1)||(choice>7))
                         System.out.println("Invalid choice, try again.");
                         // if response is outside used int range, deny it
                     else
@@ -48,7 +48,9 @@ public class multitool {
                 ToDoList.main(args);
             else if(choice==5)
                 Calculator.main(args);
-            else if(choice==6){
+            else if(choice==6)
+                RockPaperScissors.main(args);
+            else if(choice==7){
                 System.out.println("See you next time!");
                 System.exit(0);
             }
