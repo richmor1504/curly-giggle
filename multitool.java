@@ -1,10 +1,11 @@
 // multitool.java
 // Richard Morsching
 
+import java.io.*;
 import java.util.*;
 
 public class multitool {
-    public static void main(String[] args){
+    public static void main(String[] args)throws IOException{
         int choice = 0;
         Scanner in = new Scanner(System.in); 
         boolean needChoice = true;
